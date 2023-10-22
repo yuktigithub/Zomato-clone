@@ -1,0 +1,38 @@
+.brand-time-font{
+    width: 150px;
+    text-align: center;
+    margin: 10px 0px;
+}
+.top-brands{
+    padding-top: 30px;
+}
+.top-brand-box{
+    padding-left: 30px;
+}
+.top-brands-cover{
+    height:150px;
+    width: 150px;
+    background-color: var(--primary-background);
+    box-shadow: var(--collection-shadow);
+    border:0.5px solid var(--border-white);
+    border-radius: 20%;
+    
+}
+.top-brands-image{
+    object-fit: cover;
+    height: 80%;
+    width: 70%;
+    /* border-radius: 50%; */
+    margin-left: 25px;
+    /* margin-top: 10px; */
+    padding-top: 15px;
+}
+.top-brand-title{
+    /* height: 150px; */
+    width: 150px;
+    font-size: 20px;
+    color: var(--brand-name-text);
+    font-weight: 500;
+    margin: 1rem 0px 0px;
+    text-align: center;
+}
